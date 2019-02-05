@@ -3,8 +3,7 @@ import {
     DocumentCard,
     DocumentCardPreview,
     DocumentCardTitle,
-    DocumentCardActivity,
-    IDocumentCardPreviewProps
+    DocumentCardActivity
 } from 'office-ui-fabric-react/lib/DocumentCard';
 
 class BasicDocumentCard extends Component {
