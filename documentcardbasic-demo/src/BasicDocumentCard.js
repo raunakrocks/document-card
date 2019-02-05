@@ -24,7 +24,7 @@ class BasicDocumentCard extends Component {
                         }
                     ] }
                     />
-                    <DocumentCardTitle title='This is document card title text'/>
+                    <DocumentCardTitle title='This is basic document card title text'/>
                     <DocumentCardActivity
                     activity='Created Feb 23, 2016'
                     people={
